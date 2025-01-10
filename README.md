@@ -35,7 +35,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
    git clone https://github.com/IsabellaJB/DeteccionObstaculosUnity.git
 4. Accede a la carpeta del proyecto:
    ```bash
-   cd proyecto-unity
+   cd DeteccionObstaculosUnity
 
 ## 🛠 Abrir el Proyecto en Unity
 1. Inicia Unity Hub.
