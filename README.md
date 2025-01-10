@@ -32,7 +32,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
    cd /ruta/a/tu/carpeta
 3. Clona este repositorio ejecutando:
    ```bash
-   git clone https://github.com/usuario/proyecto-unity.git
+   git clone https://github.com/IsabellaJB/DeteccionObstaculosUnity.git
 4. Accede a la carpeta del proyecto:
    ```bash
    cd proyecto-unity
