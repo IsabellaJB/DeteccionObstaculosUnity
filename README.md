@@ -16,7 +16,7 @@ Este proyecto implementa un auto autónomo en Unity utilizando sensores y lógic
 
 ## Cómo usar  
 1. **Descargar el proyecto**  
-   ¡Bienvenido a **[Nombre del Proyecto]**! Este es un proyecto desarrollado en Unity. Sigue estos pasos para clonar, configurar y ejecutar el proyecto.
+   ¡Bienvenido a **DeteccionObstaculosUnity**! Este es un proyecto desarrollado en Unity. Sigue estos pasos para clonar, configurar y ejecutar el proyecto.
 
 ## 🚀 Requisitos Previos
 
