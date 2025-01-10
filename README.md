@@ -30,3 +30,30 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 2. Navega a la carpeta donde deseas clonar el proyecto:
    ```bash
    cd /ruta/a/tu/carpeta
+3. Clona este repositorio ejecutando:
+   ```bash
+   git clone https://github.com/usuario/proyecto-unity.git
+4. Accede a la carpeta del proyecto:
+   ```bash
+   cd proyecto-unity
+
+## 🛠 Abrir el Proyecto en Unity
+1. Inicia Unity Hub.
+2. Haz clic en el botón Open y selecciona la carpeta raíz del proyecto (donde está la carpeta Assets).
+3. Unity cargará automáticamente el proyecto. Si es necesario, espera a que descargue los paquetes o reconstruya la biblioteca.
+
+## 📦 Dependencias
+Este proyecto utiliza algunos paquetes o herramientas específicas. Unity se encargará de instalar automáticamente las dependencias mencionadas en el archivo Packages/manifest.json.
+Si el proyecto requiere herramientas externas (como Odin Inspector, DOTween, etc.), verifica su documentación para instalarlas correctamente.
+
+## 🔧 Configuración Adicional
+1. Abre la escena principal:
+Navega a la carpeta Assets y abre Proyecto Final.unity.
+
+## ▶️ Ejecutar el Proyecto
+1. En Unity, haz clic en el botón Play para probar el proyecto.
+2. Si encuentras errores, revisa la consola de Unity y corrige según sea necesario.
+
+## 🛠 Versiones
+Este proyecto fue desarrollado con:
+1. Unity (6000.0.32f1 LTS)
