@@ -16,6 +16,17 @@ Este proyecto implementa un auto autónomo en Unity utilizando sensores y lógic
 
 ## Cómo usar  
 1. **Descargar el proyecto**  
-   Clona este repositorio en tu máquina local:  
+   ¡Bienvenido a **[Nombre del Proyecto]**! Este es un proyecto desarrollado en Unity. Sigue estos pasos para clonar, configurar y ejecutar el proyecto.
+
+## 🚀 Requisitos Previos
+
+Antes de comenzar, asegúrate de tener instalados los siguientes programas:
+- [Unity Hub](https://unity.com/download) y la versión de Unity especificada en este proyecto. (Consulta la sección **Versiones** más abajo).
+- [Git](https://git-scm.com/) para clonar este repositorio.
+
+## 📥 Clonar el Repositorio
+
+1. Abre tu terminal (o Git Bash en Windows).
+2. Navega a la carpeta donde deseas clonar el proyecto:
    ```bash
-   git clone https://github.com/tu-usuario/auto-autonomo-unity.git
+   cd /ruta/a/tu/carpeta
