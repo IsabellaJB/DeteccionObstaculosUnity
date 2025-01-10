@@ -39,7 +39,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 
 ## 🛠 Abrir el Proyecto en Unity
 1. Inicia Unity Hub.
-2. Haz clic en el botón Open y selecciona la carpeta raíz del proyecto (donde está la carpeta Assets).
+2. Haz clic en el botón Add y selecciona la opción add from disk, y selecciona la carpeta del github clonado en tu computadora.
 3. Unity cargará automáticamente el proyecto. Si es necesario, espera a que descargue los paquetes o reconstruya la biblioteca.
 
 ## 📦 Dependencias
