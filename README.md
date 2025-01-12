@@ -1,6 +1,8 @@
 # DeteccionObstaculosUnity
 Proyecto desarrollado para la materia de herramientas de desarrollo para inteligencia artificial. Este proyecto fue realizado por la alumnas de séptimo semestre de la carrera de inteligencia artificial: Isabella Jiménez Bravo y Melissa A. York Sánchez.
 
+https://media.tenor.com/SRyXgiZJAzsAAAAC/hello-kitty.gif
+
 
 Este proyecto implementa un auto autónomo en Unity utilizando sensores y lógica manual para navegación y esquive de obstáculos. El auto sigue un camino predeterminado y detecta objetos en su trayectoria mediante rayos (raycasts), ajustando su dirección y velocidad en tiempo real.
 
