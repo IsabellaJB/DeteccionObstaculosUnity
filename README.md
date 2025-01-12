@@ -4,6 +4,7 @@ Proyecto desarrollado para la materia de herramientas de desarrollo para intelig
 
 ![](https://github.com/IsabellaJB/DeteccionObstaculosUnity/blob/main/DeteccionObstaculosUnity_Prueba.gif)
 
+[Link para ver el video completo de 1 minuto (Se recomienda abrir en otra pestaña, se redirecciona una video en Google Drive)](https://drive.google.com/file/d/1ouZGRuuDKrgfal59Yu_cfe7dX1Qs9aEo/view?usp=sharing)
 
 Este proyecto implementa un auto autónomo en Unity utilizando sensores y lógica manual para navegación y esquive de obstáculos. El auto sigue un camino predeterminado y detecta objetos en su trayectoria mediante rayos (raycasts), ajustando su dirección y velocidad en tiempo real.
 
